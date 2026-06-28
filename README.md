@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankush+N+Borkar;CS+Student+%7C+DSA+%2B+Web+Development;Building+Consistency%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankush+N+Borkar;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankush-n-borkar&style=for-the-badge&color=A855F7)
 
 </div>
 
@@ -31,7 +30,7 @@
 ### 🛠️ Dev Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 <br/>
